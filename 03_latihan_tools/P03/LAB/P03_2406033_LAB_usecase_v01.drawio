@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="GN7y4KfHgCSm3d_lzhue">
+    <mxGraphModel dx="1483" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-50" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=260;height=70;align=center;rounded=0;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Sistem Informasi Peminjaman dan Pengembalian Pralatan Labotarium Kampus&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="640" width="460" x="220" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-68" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Lihar Ketersediaan Peralatan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="50" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-84" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Periksa Ketersediaan&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="280" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-86" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ajukan peminjaman&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="40" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-92" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kelola Data Pralatan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="330" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-94" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cetak Bukti Pengajuan&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="30" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-101" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Proses Keputusan Peminjaman&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="285" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-102" parent="85xEGtnM3NXMRPmaGnpQ-50" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Lihat Laporan Peminjaman&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="295" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-111" edge="1" parent="85xEGtnM3NXMRPmaGnpQ-50" source="85xEGtnM3NXMRPmaGnpQ-86" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-84" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="40" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-112" edge="1" parent="85xEGtnM3NXMRPmaGnpQ-50" source="85xEGtnM3NXMRPmaGnpQ-94" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-86" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="40" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-105" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-106" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-107" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-51" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Mahasiswa&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-108" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-92">
+          <mxGeometry relative="1" x="0.0049" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-109" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-52" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Petugas Laboran&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-110" edge="1" parent="1" source="85xEGtnM3NXMRPmaGnpQ-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" target="85xEGtnM3NXMRPmaGnpQ-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85xEGtnM3NXMRPmaGnpQ-104" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;labelBackgroundColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kepala Laboran&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="915" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
