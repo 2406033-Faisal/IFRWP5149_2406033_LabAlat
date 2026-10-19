@@ -44,6 +44,25 @@ Dokumen ini berisi rekam jejak pelaksanaan praktikum, berkas pemodelan UML, sert
 
 ---
 
+# 🔹 Pertemuan 4
+
+Use Case Diagram Lanjutan: Generalization dan Collaboration 
+
+```
+IFRWP5149_00000000_LabAlat/
+  01_skenario/
+    P04_LAB_skenario_v01.md   P04_LAB_kebutuhan_v01.md
+    P04_SIA_skenario_v01.md   P04_SIA_kebutuhan_v01.md
+  03_latihan_tools/            (tetap, dari P1 dan P2)
+  04_model_analisis/
+    P03/                       (tetap, jangan diubah; letakkan berkas P03 Anda di sini)
+    P04/
+      P04_logbook_v01.md
+      LAB/  P04_00000000_LAB_usecase_v01.drawio / .png, _deskripsi_v01.md, _metadata_v01.md
+      SIA/  P04_00000000_SIA_usecase_v01.drawio / .png, _deskripsi_v01.md, _metadata_v01.md
+  05_model_desain/             (kosong)
+```
+
 ## 📁 Struktur Repositori
 
 ```text
