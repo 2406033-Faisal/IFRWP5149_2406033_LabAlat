@@ -53,6 +53,9 @@ Kakas : Draw.io & Markdown
 Status : DALAM PENGERJAAN
 
 Deskripsi : Pengembangan Use Case Diagram sistem SIA/LAB berdasarkan hasil Pertemuan 3 dengan menerapkan relasi generalization pada aktor dan use case, pemodelan collaboration, penyusunan skenario dan kebutuhan sistem, pembaruan Use Case Description, serta penyusunan metadata dan logbook. Berkas Pertemuan 3 tetap dipertahankan dan tidak diubah.
+
+
+###  🔹 Pertemuan 5
 ```
 
 ## 📁 Struktur Repositori
