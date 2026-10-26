@@ -46,16 +46,30 @@ Dokumen ini berisi rekam jejak pelaksanaan praktikum, berkas pemodelan UML, sert
 
 ### 🔹 Pertemuan 4
 
-Topik : Use Case Diagram Lanjutan: Generalization dan Collaboration
-
-Kakas : Draw.io & Markdown
-
-Status : DALAM PENGERJAAN
-
-Deskripsi : Pengembangan Use Case Diagram sistem SIA/LAB berdasarkan hasil Pertemuan 3 dengan menerapkan relasi generalization pada aktor dan use case, pemodelan collaboration, penyusunan skenario dan kebutuhan sistem, pembaruan Use Case Description, serta penyusunan metadata dan logbook. Berkas Pertemuan 3 tetap dipertahankan dan tidak diubah.
+- **ID Artefak** : LAB-P04-UC / SIA-P04-UC
+- **Judul** : Use Case Diagram Lanjutan: Generalization dan Collaboration
+- **Topik** : Use Case Diagram Lanjutan (Generalization Aktor & Use Case, Collaboration & Realization, Include, Extend)
+- **Pertemuan** : 04
+- **Sumber Kebutuhan** : LAB-R01 s.d. LAB-R11 & SIA-R01 s.d. SIA-R12
+- **Jenis/Status** : Use Case Diagram Kumulatif & Use Case Description
+- **Kakas** : Draw.io & Markdown
+- **Pembuat** : Cecep Faisal Ahmad (2406033)
+- **Versi & Tanggal** : v01 — 19 Oktober 2026
+- **Status** : SELESAI
 
 
 ###  🔹 Pertemuan 5
+
+- **ID Artefak** : LAB-P05-UC-SCN
+- **Judul** : Skenario Use Case: Dari Diagram ke Langkah Kegiatan
+- **Topik** : Skenario Use Case Lanjutan, Generalization, Extend, dan Include
+- **Pertemuan** : 05
+- **Sumber Kebutuhan** : LAB-R01 s.d. LAB-R11 & SIA-R07 s.d. SIA-R12
+- **Jenis/Status** : Lembar Telaah & Dokumentasi Skenario Use Case
+- **Kakas** : Draw.io & Markdown
+- **Pembuat** : Cecep Faisal Ahmad (2406033)
+- **Versi & Tanggal** : v01 — 26 Oktober 2026
+- **Status** : Selesai
 ```
 
 ## 📁 Struktur Repositori
